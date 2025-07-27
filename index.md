@@ -99,6 +99,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="https://github.com/Konzie68/Lab-GCC/blob/main/images/Karla%20Oct%2024_1.jpg"
   link="team"
-  title="Our Team"
+  title="Karla Smith Fuller, Ph.D"
   text=text
 %}
