@@ -96,10 +96,13 @@ Dr. Fuller is Founding Faculty and Professor of Biology at Guttman Community Col
 %}
 
 {%
+{%
   include feature.html
   image="https://raw.githubusercontent.com/Konzie68/Lab-GCC/main/images/Karla%20Oct%2024_1.jpg"
   link="team"
   title="Karla Smith Fuller, Ph.D"
-  text=text
-  style="margin-top: 150px;"
+  text="Dr. Fuller is Founding Faculty and Professor of Biology at Guttman Community College - City University of New York. Her current research interests are using genomic data science to explore gene expression signatures for disease."
+  image_style="width: 250px; height: auto; border-radius: 8px; display: block; margin: 0 auto;"
+%}
+
 %}
