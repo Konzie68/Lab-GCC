@@ -1,7 +1,7 @@
 ---
 ---
 <img
-  src="{{ '/background.png' | relative_url }}"
+  src="{{ '/images/background.png' | relative_url }}"
   alt="Banner"
   style="width: 100%; height: auto; display: block; margin-bottom: 40px;"
 >
