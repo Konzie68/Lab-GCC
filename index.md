@@ -101,5 +101,5 @@ Dr. Fuller is Founding Faculty and Professor of Biology at Guttman Community Col
   link="team"
   title="Karla Smith Fuller, Ph.D"
   text=text
-  style="margin-top: 40px;"
+  style="margin-top: 150px;"
 %}
