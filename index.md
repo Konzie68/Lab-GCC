@@ -96,7 +96,7 @@ Dr. Fuller is Founding Faculty and Professor of Biology at Guttman Community Col
 %}
 
 {%
-{%
+
   include feature.html
   image="https://raw.githubusercontent.com/Konzie68/Lab-GCC/main/images/Karla%20Oct%2024_1.jpg"
   link="team"
@@ -105,4 +105,4 @@ Dr. Fuller is Founding Faculty and Professor of Biology at Guttman Community Col
   image_style="width: 250px; height: auto; border-radius: 8px; display: block; margin: 0 auto;"
 %}
 
-%}
+
