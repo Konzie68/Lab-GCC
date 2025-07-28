@@ -81,7 +81,7 @@ Our second project focuses on gene discovery in urban soil samples.
 {%
   capture text
 %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Dr. Fuller is Founding Faculty and Professor of Biology at Guttman Community College - City University of New York. Her current research interests are using genomic data science to explore gene expression signatures for disease.
 
 {%
   include button.html
