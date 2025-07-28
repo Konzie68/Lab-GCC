@@ -1,5 +1,10 @@
 ---
 ---
+<img
+  src="{{ '/background.png' | relative_url }}"
+  alt="Banner"
+  style="width: 100%; height: auto; display: block; margin-bottom: 40px;"
+>
 
 # GDS@GCC by the Fuller Lab
 
@@ -102,7 +107,7 @@ Dr. Fuller is Founding Faculty and Professor of Biology at Guttman Community Col
   link="team"
   title="Karla Smith Fuller, Ph.D"
   text="Dr. Fuller is Founding Faculty and Professor of Biology at Guttman Community College - City University of New York. Her current research interests are using genomic data science to explore gene expression signatures for disease."
-  image_style="width: 250; height: auto; border-radius: 8px; display: block; margin: 0 auto;"
+  image_style="width: 275px; height: auto; border-radius: 8px; display: block; margin: 0 auto;"
 %}
 
 
